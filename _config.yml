@@ -1,0 +1,21 @@
+
+# Site settings
+title: Le Microcontrôleur
+description: découvrir avec nous 
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Semaine Systeme
+user_description: Un microcontrôleur (µc, uc, ou MCU) désigne un circuit intégré compact qui permet de contrôler une certaine opération dans un système intégré. Il comporte un processeur, une mémoire et des périphériques d'entrée et de sortie sur une même carte ou puce. Ces circuits se retrouvent dans les véhicules, les robots, les machines à usage industriel, les appareils médicaux, les émetteurs-récepteurs radio mobiles, les distributeurs automatiques et les appareils ménagers. trois modèles sont tout particulièrement sollicités par les entreprises, le STM32, l'Uno et le PIC.
+user_title: Le Microcontrôlleur
+email: cnh@live.fr
+
+github_username:  cnh00
+
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
