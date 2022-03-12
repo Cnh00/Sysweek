@@ -1,8 +1,7 @@
 # SYs Week
 
 
-
-This is a simple and minimalist template for Jekyll designed for developers that want to show of their portfolio.
+io.
 
 The Theme features:
 
@@ -61,8 +60,7 @@ In order to compile the assets and run Jekyll on local you need to follow those 
 - Run: `gulp`
 
 ## License
-
-This theme is free and open source software, distributed under the The MIT License. So feel free to use this Jekyll theme anyway you want.
+.
 
 ## Credits
 
